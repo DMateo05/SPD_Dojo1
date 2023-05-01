@@ -1,1 +1,78 @@
-chau
+// SPD DOJO 1 DEVITA MATEO SEGUNDA ENTREGA
+#define luzrojaUno 13
+#define luzrojados 12
+#define luzamarillauno 8
+#define luzamarillados 7
+#define luzverdeuno 4
+#define luzverdedos 2 
+#define buzzer 3
+void setup()
+{
+  pinMode(luzrojaUno, OUTPUT);
+  pinMode(luzrojados, OUTPUT);
+  pinMode(luzamarillauno, OUTPUT);
+  pinMode(luzamarillados, OUTPUT);
+  pinMode(luzverdeuno, OUTPUT);
+  pinMode(luzverdedos, OUTPUT);
+  pinMode(buzzer, OUTPUT);
+}
+
+void loop()
+{
+  prenderSonar(luzrojaUno,luzrojados,5000,10);
+  iterar(luzrojaUno,luzrojados,250);
+  prenderSonar(luzamarillauno,luzamarillados,3000,3);
+  iterar(luzamarillauno,luzamarillados,250);
+  prenderLuz(luzverdeuno,luzverdedos,5000);
+  iterar(luzverdeuno,luzverdedos,250);
+  prenderSonar(luzamarillauno,luzamarillados,3000,3);
+  iterar(luzamarillauno,luzamarillados,250);
+}
+
+void prenderLuz(int pinUno, int pinDos, int demora)
+{
+  digitalWrite(pinUno, HIGH);
+  digitalWrite(pinDos, HIGH);
+  delay(demora); 
+  digitalWrite(pinUno, LOW);
+  digitalWrite(pinDos, LOW);
+}
+
+void sonar(int pinBuzzer, int demoraBuzzer, int frecuencia)
+{
+  tone(pinBuzzer, frecuencia);
+  delay(demoraBuzzer);
+  noTone(pinBuzzer);
+  delay(demoraBuzzer);
+
+}
+
+void prenderSonar(int pinUnoRojo, int pinDosRojo, int tiempoDemora, int repeticion) 
+{
+  digitalWrite(pinUnoRojo, HIGH);
+  digitalWrite(pinDosRojo, HIGH);
+  for(int i=0; i < repeticion; i++)
+  {
+    sonar(3,250,2000);
+  }
+  digitalWrite(pinUnoRojo, LOW);
+  digitalWrite(pinDosRojo, LOW);
+}
+
+void iterar (int led1, int led2, int demora ) {
+  for (int i = 0; i < 3; i++) {
+      titilar(led1, led2, demora);
+  }
+}
+
+
+void titilar(int led1, int led2, int demora) {
+    digitalWrite(led1, LOW);
+      digitalWrite(led2, LOW);
+      delay(demora);
+      digitalWrite(led1, HIGH);
+      digitalWrite(led2, HIGH);
+  delay(demora);
+      digitalWrite(led2, LOW);
+        digitalWrite(led1, LOW);
+}
