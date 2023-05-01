@@ -18,7 +18,7 @@
 
 - [Tinkercad_Formiga_Thiago](https://www.tinkercad.com/things/lfK5hZG0kbb-copy-of-proyecto1-dojof-/editel?sharecode=-25zjxJIo8h8iyNAYKSJt56k34E7JzGJIwJIB4rUbZQ) 
 
-- [Tinkercad_Rocio_Gonzáles](https://www.tinkercad.com/things/kd62xPZ7MRh-rocio-gonzalez-1b-dojof-ej-2/editel?sharecode=U8sFleICIUjLodJoQsETgQTsTWx3e3aUlYvDTYWHHhA)
+- [Tinkercad_Rocio_González](https://www.tinkercad.com/things/kd62xPZ7MRh-rocio-gonzalez-1b-dojof-ej-2/editel?sharecode=U8sFleICIUjLodJoQsETgQTsTWx3e3aUlYvDTYWHHhA)
 
 - [Tinkercad_Lautaro_Fretes](https://www.tinkercad.com/things/jlmlLK3kh9m-dojo-fejercicio-2-fretes-lautaro/editel?sharecode=_lBqxe21rKLEsDIOd4N7oP4yYJ-vEAoIdoyXQnPKj5I)
 
