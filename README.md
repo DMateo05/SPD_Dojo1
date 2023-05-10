@@ -23,6 +23,19 @@
 - [Tinkercad_Lautaro_Fretes](https://www.tinkercad.com/things/jlmlLK3kh9m-dojo-fejercicio-2-fretes-lautaro/editel?sharecode=_lBqxe21rKLEsDIOd4N7oP4yYJ-vEAoIdoyXQnPKj5I)
 
 - [Tinkercad_Guido_Faraldo](https://www.tinkercad.com/things/6jijOxJKFxO-dojo-f-semaforo/editel?sharecode=rLjJNk59VfH00g7HnJR656Qcm-XJYoMMYq15F6sUO1k)
+
+# SPD Entrega Subte DOJO II 
+- [Tinkercad_Devita_Mateo](https://www.tinkercad.com/things/8ji4JuVLD6m-dojo-1-parte-i-devita-mateo/editel?sharecode=ZswXTLPQUI0GUfPJv5a0Os0nPZvY6NLzg6L-QNJVXcI)
+
+- [Tinkercad_Juan_Pablo_Etchart](https://www.tinkercad.com/things/ce0nY2Q35AU-magnificent-vihelmo/editel?sharecode=RbTsZ5mgSCZeFLEqOB1sQ9ARVWNOTPDr-Ij9XYvy2OM)
+
+- [Tinkercad_Lautaro_Andrea](https://www.tinkercad.com/things/ex1CNKWQ0ur-fantastic-inari-bojo/editel?sharecode=P8mu92J0Ealqne2vw_IAX0IUFaLJbpSh1GaYHHsiEvg)
+
+- [Tinkercad_Rocio_González](https://www.tinkercad.com/things/jmpvPIxH3rI-smooth-elzing/editel?sharecode=zIOFP-FQ4DHAf3-Q3gizHM4yHlPe7K7WYPkDz6J4wZg)
+
+- [Tinkercad_Thiago_Formiga](https://www.tinkercad.com/things/f5JTCaoqu8n-fabulous-kup/editel?sharecode=WtjfXndTqSSoh-8N115u03QItZdc9o_1rStN3uFA40Q)
+
+- [Tinkercad_Lautaro Fretes](https://www.tinkercad.com/things/8hpVUJVSWb9-neat-turing-wolt/editel?sharecode=KbpeDa7l_hytfyVdqqJLtmD5zT7FzUERpC9metk39NM)
 ## Integrantes 
 - Devita Mateo
 - Juan Pablo Etchart 
@@ -30,6 +43,7 @@
 - Rocio Gonzalez Aylen
 - Guido Faraldo 
 - Lautaro Fretes
+- Lautaro Andrea (?)
 
 ## Proyecto: Semaforo Rojo UTN Robotics.
 A completar
